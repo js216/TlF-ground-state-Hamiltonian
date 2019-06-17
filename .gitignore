@@ -1,0 +1,4 @@
+*.png
+*.PNG
+.ipynb_checkpoints
+desktop.ini
