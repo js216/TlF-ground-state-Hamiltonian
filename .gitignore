@@ -1,4 +1,8 @@
+matrices/
 *.png
+*.pdf
 *.PNG
 .ipynb_checkpoints
+*.aux
+*.log
 desktop.ini
